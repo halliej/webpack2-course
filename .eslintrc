@@ -1,0 +1,15 @@
+{
+  "extends": "rallycoding",
+  "rules": {
+    "arrow-body-style": 0,
+    "no-underscore-dangle": 0,
+    "radix": 0,
+    "newline-after-import": 0,
+    "react/jsx-closing-bracket-location": 0
+  },
+  "env": {
+    "browser": true,
+    "node": true,
+    "jasmine": true
+  }
+}
